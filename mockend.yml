@@ -3,5 +3,5 @@ models:
     fake:
       _count: 10
       Name: company
-      Address: streetName
-      EIN: {string: [9,9]}
+      Address: street
+      EIN: {Number: [9,9]}
