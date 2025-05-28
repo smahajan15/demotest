@@ -5,4 +5,4 @@ models:
       _count: 10
       Name: company
       Address: streetName
-      EIN: [9,9]
+      EIN: {string: [9,9]}
