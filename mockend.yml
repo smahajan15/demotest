@@ -4,4 +4,4 @@ models:
       _count: 10
       Name: company
       Address: street
-      EIN: {digits:9}
+      EIN: {numerify: 23-#######}
