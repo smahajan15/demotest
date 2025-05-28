@@ -1,0 +1,8 @@
+
+models:
+  Partnership:
+    fake:
+      _count: 10
+      Name: company
+      Address: { loremParagraphs: [10, 100] }
+      EIN: { [9,9] }
