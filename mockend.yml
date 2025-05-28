@@ -4,4 +4,4 @@ models:
       _count: 10
       Name: company
       Address: street
-      EIN: {Number: [9,9]}
+      EIN: {int: [9,9]}
